@@ -1,3 +1,4 @@
 init test;
 aaa.txg;
 bb.txt;
+test2
