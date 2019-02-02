@@ -1,2 +1,3 @@
 init test;
 test2
+bb.txt;
